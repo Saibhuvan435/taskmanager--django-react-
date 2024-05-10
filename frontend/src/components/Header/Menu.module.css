@@ -1,0 +1,21 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 40px;
+}
+.menu > a {
+    background-color: #343a406a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    width: 200px;
+    border-radius: 10px;
+    transition: 0.3s ease-in-out;
+}
+.menu > a:hover{
+    background-color: #343A40;
+}

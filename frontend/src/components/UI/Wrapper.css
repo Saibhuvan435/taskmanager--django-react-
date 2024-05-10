@@ -1,0 +1,7 @@
+.wrapper{
+    width: 90%;
+    height: 100vh;
+    padding-left: 20px;
+    padding-top: 20px;
+    overflow: auto;
+}
