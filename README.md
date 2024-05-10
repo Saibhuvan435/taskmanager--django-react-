@@ -34,18 +34,12 @@ Follow these steps to set up the application on your local machine:
 ### Register Panel
 ![Register](https://github.com/Saibhuvan435/taskmanager-django-react-main4/assets/126612568/7b4a6cdc-71e8-4b1f-9f4b-8756c7a57821)
 
+### Create Task Panel
+![Task Creation](https://github.com/Saibhuvan435/taskmanager-django-react-main4/assets/126612568/280bbff2-c497-478f-8925-c4441a3e24b2)
 
 ### Dashboard
 ![Tasks](https://github.com/Saibhuvan435/taskmanager-django-react-main4/assets/126612568/f329031b-370a-408c-8a81-8ea80a556867)
 
 ### Completed Tasks Panel
-
-(Note: Uncompleted tasks panel is similar but shows only uncompleted tasks)
-
 ![Completion](https://github.com/Saibhuvan435/taskmanager-django-react-main4/assets/126612568/94aa2f8a-dcdf-4d34-952e-4a96de5c867b)
 
-### Create Task Panel
-![Create Task Panel](https://github.com/RadekKusiak71/taskmanager-django-react/assets/121208184/bf2ce853-a9ab-4fd8-98d3-748c56fd0a6f)
-
-Feel free to explore and use the application with the provided test user credentials.
-```
