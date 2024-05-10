@@ -27,15 +27,7 @@ Follow these steps to set up the application on your local machine:
    py manage.py runserver
    ```
 
-## Test User
 
-You can use the following test user to log in:
-
-- **Username**: TestUser1
-- **Password**: !QAZ2wsx12
-
-- **Username**: admin
-- **Password**: !QAZ2wsx12
 
 ## Screenshots
 
